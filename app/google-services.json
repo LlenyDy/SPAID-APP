@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "428986433275",
+    "firebase_url": "https://spaid-signup-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "spaid-signup",
+    "storage_bucket": "spaid-signup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428986433275:android:5b8827b5a9d66a54f17a5e",
+        "android_client_info": {
+          "package_name": "com.example.spaid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz1CcU_f5IHQyetBAxEDDmktDAS76bNJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

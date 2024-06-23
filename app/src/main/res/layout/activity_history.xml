@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical"
+    tools:context=".History">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="50dp"
+            android:layout_marginBottom="50dp"
+            android:background="@drawable/roundedcornerrectangle"
+            android:backgroundTint="@color/sky"
+            android:text="History"
+            android:textAlignment="center"
+            android:textSize="40sp" />
+        <TextView
+            android:id="@+id/stress"
+            android:layout_width="375dp"
+            android:layout_height="37dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textSize="20sp" />
+
+
+
+        <Button
+            android:id="@+id/january"
+            android:layout_width="300dp"
+            android:layout_height="120dp"
+            android:background="@drawable/putol_nga_rectangle"
+            android:backgroundTint="@color/black"
+            android:text="January"
+            android:textAlignment="center"
+            android:layout_marginTop="20dp"
+            android:textSize="40sp" />
+
+        <Button
+            android:id="@+id/febuary"
+            android:layout_width="300dp"
+            android:layout_height="120dp"
+            android:background="@drawable/putol_nga_rectangle"
+            android:backgroundTint="@color/sky"
+            android:text="Febuary"
+            android:textAlignment="center"
+            android:layout_marginTop="20dp"
+            android:textSize="40sp" />
+
+        <Button
+            android:id="@+id/march"
+            android:layout_width="300dp"
+            android:layout_height="120dp"
+            android:background="@drawable/putol_nga_rectangle"
+            android:backgroundTint="@color/sky"
+            android:text="March"
+            android:textAlignment="center"
+            android:layout_marginTop="20dp"
+            android:textSize="40sp" />
+
+        <Button
+            android:id="@+id/april"
+            android:layout_width="300dp"
+            android:layout_height="120dp"
+            android:background="@drawable/putol_nga_rectangle"
+            android:backgroundTint="@color/sky"
+            android:text="April"
+            android:textAlignment="center"
+            android:layout_marginTop="20dp"
+            android:textSize="40sp" />
+
+        <Button
+            android:id="@+id/may"
+            android:layout_width="300dp"
+            android:layout_height="120dp"
+            android:background="@drawable/putol_nga_rectangle"
+            android:backgroundTint="@color/sky"
+            android:text="May"
+            android:textAlignment="center"
+            android:layout_marginTop="20dp"
+            android:textSize="40sp" />
+
+        <Button
+            android:id="@+id/june"
+            android:layout_width="300dp"
+            android:layout_height="120dp"
+            android:background="@drawable/putol_nga_rectangle"
+            android:backgroundTint="@color/sky"
+            android:text="June"
+            android:textAlignment="center"
+            android:layout_marginTop="20dp"
+            android:textSize="40sp" />
+
+        <Button
+            android:id="@+id/july"
+            android:layout_width="300dp"
+            android:layout_height="120dp"
+            android:background="@drawable/putol_nga_rectangle"
+            android:backgroundTint="@color/sky"
+            android:text="July"
+            android:textAlignment="center"
+            android:layout_marginTop="20dp"
+            android:textSize="40sp" />
+
+        <Button
+            android:id="@+id/august"
+            android:layout_width="300dp"
+            android:layout_height="120dp"
+            android:background="@drawable/putol_nga_rectangle"
+            android:backgroundTint="@color/sky"
+            android:text="August"
+            android:textAlignment="center"
+            android:layout_marginTop="20dp"
+            android:textSize="40sp" />
+
+        <Button
+            android:id="@+id/september"
+            android:layout_width="300dp"
+            android:layout_height="120dp"
+            android:background="@drawable/putol_nga_rectangle"
+            android:backgroundTint="@color/sky"
+            android:text="September"
+            android:textAlignment="center"
+            android:layout_marginTop="20dp"
+            android:textSize="40sp" />
+
+        <Button
+            android:id="@+id/october"
+            android:layout_width="300dp"
+            android:layout_height="120dp"
+            android:background="@drawable/putol_nga_rectangle"
+            android:backgroundTint="@color/sky"
+            android:text="October"
+            android:textAlignment="center"
+            android:layout_marginTop="20dp"
+            android:textSize="40sp" />
+
+        <Button
+            android:id="@+id/november"
+            android:layout_width="300dp"
+            android:layout_height="120dp"
+            android:background="@drawable/putol_nga_rectangle"
+            android:backgroundTint="@color/sky"
+            android:text="November"
+            android:textAlignment="center"
+            android:layout_marginTop="20dp"
+            android:textSize="40sp" />
+
+        <Button
+            android:id="@+id/december"
+            android:layout_width="300dp"
+            android:layout_height="120dp"
+            android:background="@drawable/putol_nga_rectangle"
+            android:backgroundTint="@color/sky"
+            android:text="December"
+            android:textAlignment="center"
+            android:layout_marginTop="20dp"
+            android:textSize="40sp" />
+
+    </LinearLayout>
+</ScrollView>

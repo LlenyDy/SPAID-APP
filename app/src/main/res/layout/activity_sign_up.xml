@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SignUp"
+    android:orientation="vertical">
+
+
+    <EditText
+        android:id="@+id/Name"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="40dp"
+        android:autofillHints="Name"
+        android:background="@drawable/roundedcornerrectangle"
+        android:ems="10"
+        android:hint="@string/name"
+        android:inputType="text"
+        android:textSize="20sp"
+        android:textColorHint="@color/light_gray" />
+
+    <EditText
+        android:id="@+id/Sex"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginRight="40dp"
+        android:autofillHints="Name"
+        android:background="@drawable/roundedcornerrectangle"
+        android:ems="10"
+        android:hint="@string/gender"
+        android:inputType="text"
+        android:textColorHint="@color/light_gray"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/Address"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp"
+        android:autofillHints="Name"
+        android:background="@drawable/roundedcornerrectangle"
+        android:ems="10"
+        android:hint="@string/address"
+        android:textSize="20sp"
+        android:inputType="text"
+        android:textColorHint="@color/light_gray"  />
+
+    <EditText
+        android:id="@+id/numberInfo"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp"
+        android:autofillHints="Name"
+        android:background="@drawable/roundedcornerrectangle"
+        android:ems="10"
+        android:hint="@string/informationNumber"
+        android:textSize="20sp"
+        android:inputType="number"
+        android:textColorHint="@color/light_gray"  />
+
+    <EditText
+        android:id="@+id/contactPerson"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp"
+        android:autofillHints="contact-person"
+        android:background="@drawable/roundedcornerrectangle"
+        android:ems="10"
+        android:hint="@string/contact_person"
+        android:textSize="20sp"
+        android:inputType="text"
+        android:textColorHint="@color/light_gray"  />
+
+    <EditText
+        android:id="@+id/contactPersonInfo"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginRight="40dp"
+        android:autofillHints="number information"
+        android:background="@drawable/roundedcornerrectangle"
+        android:ems="10"
+        android:hint="@string/number_information"
+        android:inputType="number"
+        android:textColorHint="@color/light_gray"
+        android:textSize="20sp" />
+
+
+    <EditText
+        android:id="@+id/emailAccount"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp"
+        android:autofillHints="number information"
+        android:background="@drawable/roundedcornerrectangle"
+        android:ems="10"
+        android:hint="@string/email"
+        android:textSize="20sp"
+        android:inputType="textEmailAddress"
+        android:textColorHint="@color/light_gray"/>
+
+    <EditText
+        android:id="@+id/emailPassword"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp"
+        android:autofillHints="number information"
+        android:background="@drawable/roundedcornerrectangle"
+        android:ems="10"
+        android:hint="@string/password"
+        android:textSize="20sp"
+        android:inputType="textPassword"
+        android:textColorHint="@color/light_gray"/>
+
+    <Button
+        android:id="@+id/createAccount"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_gravity="center"
+        android:text="@string/ceate_account"
+        android:backgroundTint="@color/light_blue_500"
+        android:background="@drawable/roundedcornerrectangle"/>
+
+</LinearLayout>

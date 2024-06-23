@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Home_and_History">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="455dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="213dp"
+            android:layout_height="447dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="193dp"
+                android:layout_height="380dp"
+                android:paddingTop="200dp"
+                android:src="@drawable/histo"
+                tools:layout_editor_absoluteX="24dp"
+                tools:layout_editor_absoluteY="160dp">
+
+            </ImageView>
+
+            <Button
+                android:id="@+id/historyButton"
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/roundedcornerrectangle"
+                android:backgroundTint="@color/white"
+                android:text="History"
+                android:textSize="25sp"
+                tools:layout_editor_absoluteX="44dp"
+                tools:layout_editor_absoluteY="430dp" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="215dp"
+            android:layout_height="455dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="193dp"
+                android:layout_height="388dp"
+                android:paddingTop="200dp"
+                android:src="@drawable/homes"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="215dp"
+                tools:layout_editor_absoluteY="160dp">
+
+            </ImageView>
+
+            <Button
+                android:id="@+id/homeButton"
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_width="152dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/roundedcornerrectangle"
+                android:backgroundTint="@color/white"
+                android:paddingRight="40dp"
+                android:text="Home"
+                android:textSize="25sp"
+                tools:layout_editor_absoluteX="228dp"
+                tools:layout_editor_absoluteY="430dp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/heartval"
+        android:layout_width="375dp"
+        android:layout_height="37dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/oxygen"
+        android:layout_width="375dp"
+        android:layout_height="37dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/stress"
+        android:layout_width="375dp"
+        android:layout_height="37dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/musc"
+        android:layout_width="375dp"
+        android:layout_height="37dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/fing"
+        android:layout_width="375dp"
+        android:layout_height="37dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+    
+</LinearLayout>
