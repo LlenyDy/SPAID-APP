@@ -1,4 +1,4 @@
-# Contributing to [Project Name]
+# Contributing to [SPAID APP]
 
 Thank you for your interest in contributing to this project! Please take a moment to review the following guidelines.
 
@@ -10,7 +10,7 @@ Thank you for your interest in contributing to this project! Please take a momen
 
 ## Reporting Bugs
 
-To report a bug, please [open a new issue](https://github.com/your-username/your-repository/issues/new) and provide detailed information about the problem.
+To report a bug, please [open a new issue](https://github.com/LlenyDy/SPAID-APP.git) and provide detailed information about the problem.
 
 ## Pull Requests
 
@@ -22,7 +22,7 @@ To report a bug, please [open a new issue](https://github.com/your-username/your
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to us at [email@example.com](mailto:email@example.com).
+If you have any questions or suggestions, feel free to reach out to us at [email@example.com](mailto:allenangel.delfino@gmail.com).
 
 ## Code of Conduct
 
