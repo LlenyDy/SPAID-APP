@@ -17,11 +17,10 @@ The application displays readings from sensors, which can monitor the following:
 - Stress Level: Monitors indicators of stress
 - Muscle Stiffness: Detects the stiffness of muscles, which can be indicative of sleep paralysis.
 - Finger Detection: Ensures accurate placement of sensors by detecting if they are correctly positioned on the finger.
-- 
 Additionally, the app alerts the user when sleep paralysis threshold values are reached, triggering an alarm sound along with a vibration motor to wake the patient.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/my-kotlin-firebase-project.git`
+1. Clone the repository: `git clone https://github.com/LlenyDy/SPAID-APP.git`
 2. Open the project in Android Studio.
 3. Sync the project with Gradle files.
 4. Set up Firebase by following the instructions [here](https://firebase.google.com/docs/android/setup).
