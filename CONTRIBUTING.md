@@ -22,7 +22,7 @@ To report a bug, please [open a new issue](https://github.com/LlenyDy/SPAID-APP.
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to us at [email@example.com](mailto:allenangel.delfino@gmail.com).
+If you have any questions or suggestions, feel free to reach out to us at [emailme](mailto:allenangel.delfino@gmail.com).
 
 ## Code of Conduct
 
