@@ -8,6 +8,7 @@
 **App Developer**: Allen Angel H. Delfino
 
 ## Description
-This project aims to provide a device application that monitors symptoms, alerts users when a patient is experiencing sleep paralysis, and records these incidents in a historical data log. The application is developed using Kotlin programming language and leverages Firebase Realtime Database, written within the Android Studio framework.
+This project aims to provide a device application that monitors symptoms, alerts users when a patient is experiencing sleep paralysis, and records these incidents in a historical data log. The application is developed using [Kotlin](https://kotlinlang.org/), and leverages [Firebase Realtime Database](https://firebase.google.com/products/realtime-database), written within the [Android Studio](https://developer.android.com/studio) framework.
+
 
 
