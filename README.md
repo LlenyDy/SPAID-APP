@@ -29,7 +29,15 @@ Additionally, the app alerts the user when sleep paralysis threshold values are 
 ## Usage
 This app is typically paired with a hardware device equipped with sensors, vibration motors, and microcontrollers. The app acts as a central tool for recording, managing gathered data, and providing additional wake-up parameters for the patient.
 
-## Live Usage of the app
+## Screenshots and Screen Records
+https://github.com/LlenyDy/SPAID-APP/assets/173585484/828ac7e0-f0d4-4b2d-8220-8e9bda032195
+demonstration of functions of the app
+
+https://github.com/LlenyDy/SPAID-APP/assets/173585484/0ef8daef-440f-4b72-8f4a-2e3ef5f6dfce
+demonstration of alarm feature of the app
+
+![historicalrecord](https://github.com/LlenyDy/SPAID-APP/assets/173585484/bde54665-c989-40e2-8b2e-0f81018bb280)
+historical record sample screenshot
 
 ## Technologies Used
 
