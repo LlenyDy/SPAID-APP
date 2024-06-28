@@ -17,6 +17,7 @@ The application displays readings from sensors, which can monitor the following:
 - Stress Level: Monitors indicators of stress
 - Muscle Stiffness: Detects the stiffness of muscles, which can be indicative of sleep paralysis.
 - Finger Detection: Ensures accurate placement of sensors by detecting if they are correctly positioned on the finger.
+  
 Additionally, the app alerts the user when sleep paralysis threshold values are reached, triggering an alarm sound along with a vibration motor to wake the patient.
 
 ## Installation
