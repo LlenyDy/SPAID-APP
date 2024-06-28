@@ -29,6 +29,7 @@ Additionally, the app alerts the user when sleep paralysis threshold values are 
 ## Usage
 This app is typically paired with a hardware device equipped with sensors, vibration motors, and microcontrollers. The app acts as a central tool for recording, managing gathered data, and providing additional wake-up parameters for the patient.
 
+## Live Usage of the app
 
 ## Technologies Used
 
@@ -73,6 +74,14 @@ This app is typically paired with a hardware device equipped with sensors, vibra
 - **Build Features**:
   - View Binding enabled (`buildFeatures { viewBinding = true }`)
 - **Firebase BOM**: Firebase Bill of Materials (`com.google.firebase:firebase-bom:32.8.0`), used for dependency management.
+
+  ## Contributing
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 
 
 
